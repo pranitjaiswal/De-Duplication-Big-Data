@@ -1,4 +1,4 @@
-# DeDoop_SIH2017
+# DeDup_SIH2017
 
 ## Execution command:
 `python3 project_launcher.py --input-file <path/to/input/file> --output-file <path/to/output/file> --mapper <path/to/mapper/script> --reducer <path/to/reducer/script> [--hadoop <path/to/hadoop/streaming/api/jar>]`
